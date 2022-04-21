@@ -1,5 +1,7 @@
 # 🔢 #100Devs Push Project001: Calculator
 
+# Hello, this is my implementation of the calculator which Leon recommended we make. My calculator CSS differs from the image providede because I tried to make it before it was assigned.
+
 ### Goal: Build a Simple Calculator using JS OOP best practices
 
 ### What it should look like:
